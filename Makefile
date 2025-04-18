@@ -9,7 +9,7 @@
 
 SRC	=	src/main.c							\
 		src/help.c							\
-		src/error/command_line_error.c		\
+		src/errors/command_line_errors.c		\
 		src/server/init_server_struct.c		\
 		src/server/setup_server.c			\
 		src/server/connection_operations.c	\
